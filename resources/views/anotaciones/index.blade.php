@@ -40,4 +40,5 @@
         </table>
     </div>
 @endsection
+
 </html>
